@@ -1,0 +1,33 @@
+FRONT-END
+
+No terminal
+- npm create vite@latest
+
+Project Name
+- web
+
+Framework
+- React
+- TypeScript
+
+cd web
+
+Rodando
+- npm run dev
+
+------------------------------------------
+
+instalando dependencias
+- npm i 
+- npm install -D tailwindcss postcss autoprefixer
+- npx tailwindcss init -p
+- npm i lucide-react
+- npm i tailwind-merge
+- npm i tailwind-variants
+- npm i @radix-ui/react-radio-group
+- npm i @radix-ui/react-progress
+- npm i @radix-ui/react-dialog
+- npm i @tanstack/react-query
+- npm i dayjs
+- npm i react-hook-form @hookform/resolvers
+-  npm i zod
